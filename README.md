@@ -4,7 +4,7 @@ updating on github 2
 __changes before rebase__
 Qick change
 
-Local changes:
-qqqqqqqqq
+changes
+fffffff
 wwwwwwwww
 
