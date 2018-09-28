@@ -1,2 +1,2 @@
 ## my-webiste
-#smaller heading
+# smaller heading
